@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b795c3d7-f1c3-4482-8f48-76056308d335" name="Changes" comment="" />
+    <list default="true" id="b795c3d7-f1c3-4482-8f48-76056308d335" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combined_dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/combined_dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +60,8 @@
       <updated>1728030922209</updated>
       <workItem from="1728030935726" duration="933000" />
       <workItem from="1728493039842" duration="367000" />
-      <workItem from="1728653805371" duration="6794000" />
+      <workItem from="1728653805371" duration="7962000" />
+      <workItem from="1728719605427" duration="5629000" />
     </task>
     <servers />
   </component>
